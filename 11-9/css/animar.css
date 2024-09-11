@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+
+    background-color: #4875d8;
+}
+
+#canvas{
+    position: absolute;
+
+    margin: auto;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+
+    background-color: rgb(222, 247, 113);
+}
